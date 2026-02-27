@@ -1,4 +1,4 @@
-# cro-ai-scanner
+# liftlab.CRO-A.I-Test-Generator
 
 AI-powered DOM scanner that analyzes any webpage and generates prioritized A/B test hypotheses using GPT-4o, with native hooks for Adobe Analytics, AEM, and Adobe Target.
 
