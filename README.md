@@ -1,4 +1,4 @@
-# liftlab.CRO-A.I-Test-Generator
+# liftlab.Ideate-a.i-test-generation
 
 AI-powered DOM scanner that analyzes any webpage and generates prioritized A/B test hypotheses using GPT-4o, with native hooks for Adobe Analytics, AEM, and Adobe Target.
 
@@ -116,7 +116,7 @@ Each idea is returned as structured JSON and rendered as a card in the panel. Us
 
 ## Author
 
-**Ramsey Lewis** — CRO & MarTech Engineer  
+**Ramsey Lewis** — Senior Solutions Engineer
 [GitHub: RamseyJLewis](https://github.com/RamseyJLewis)
 
 ---
